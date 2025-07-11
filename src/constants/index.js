@@ -44,6 +44,25 @@ import {
   linkedin,
  
   speakerdemo,
+  series1,
+  series2,
+  series3,
+  series4,
+  series5,
+  series6,
+  series7,
+  series8,
+  series9,
+  series10,
+  series11,
+  series12,
+  series13,
+  series14,
+  series15,
+  series16,
+  series17,
+  series18,
+
 } from "../assets";
 
 export const navigation = [
@@ -82,41 +101,31 @@ export const navigation = [
 ];
 
 export const seriesPartners = [
-  {
-    icon: partner1,
-    name: "Enterprise AI Partner",
-  },
+ 
   {
     icon: partner1,
     name: "Everyday AI Partner",
   },
   {
-    icon: partner1,
-    name: "Data Modernization Partner",
+    icon: partner2,
+    name: "DATA MANAGEMENT PARTNER",
   },
-  {
-    icon: partner1,
-    name: "Premium Bronze Partner",
-  },
-  {
-    icon: partner1,
-    name: "Networking Partner",
-  },
+  
 ];
 
 export const exhibitingPartners = [
-  {
-    icon: partner1,
-  },
-  {
-    icon: partner1,
-  },
-  {
-    icon: partner1,
-  },
-  {
-    icon: partner1,
-  },
+  // {
+  //   icon: partner1,
+  // },
+  // {
+  //   icon: partner1,
+  // },
+  // {
+  //   icon: partner1,
+  // },
+  // {
+  //   icon: partner1,
+  // },
 ];
 
 export const forTheseIndustries = [
@@ -368,144 +377,125 @@ export const contact = [
 ];
 
 export const benefits = [
-  {
-    id: "0",
-    title: "demo",
-    text: "Chief  ygkhgk",
-    organization: "Abdul kghgkh",
-    link: "https://www.linkedin.com/",
-    imageUrl: speakerdemo,
-  },
-  {
-    id: "1",
-    title: "demo",
-    text: "Chief  ygkhgk",
-    organization: "kghgkh",
-    link: "https://www.linkedin.com/",
-    imageUrl: speakerdemo,
-  },
-  {
-    id: "2",
-    title: "demo",
-    text: "Chief  ygkhgk",
-    organization: "kghgkh",
-    link: "https://www.linkedin.com/",
-    imageUrl: speakerdemo,
-  },
-  {
-    id: "3",
-    title: "demo",
-    text: "Chief  ygkhgk",
-    organization: "kghgkh",
-    link: "https://www.linkedin.com/",
-    imageUrl: speakerdemo,
-  },
-  {
-    id: "4",
-    title: "demo",
-    text: "Chief  ygkhgk",
-    organization: "kghgkh",
-    link: "https://www.linkedin.com/",
-    imageUrl: speakerdemo,
-  },
-  {
-    id: "5",
-    title: "demo",
-    text: "Chief  ygkhgk",
-    organization: "kghgkh",
-    link: "https://www.linkedin.com/",
-    imageUrl: speakerdemo,
-  },
-  {
-    id: "6",
-    title: "demo",
-    text: "Chief  ygkhgk",
-    organization: "kghgkh",
-    link: "https://www.linkedin.com/",
-    imageUrl: speakerdemo,
-  },
-  {
-    id: "7",
-    title: "demo",
-    text: "Chief  ygkhgk",
-    organization: " kghgkh",
-    link: "https://www.linkedin.com/",
-    imageUrl: speakerdemo,
-  },
+  // {
+  //   id: "0",
+  //   title: "demo",
+  //   text: "Chief  ygkhgk",
+  //   organization: "Abdul kghgkh",
+  //   link: "https://www.linkedin.com/",
+  //   imageUrl: speakerdemo,
+  // },
+  
 ];
 
 export const testimonials = [
   {
-    img: speakerdemo,
-    title: "demo",
-    name: "gewfg sdggh4ww",
-    role: "wtyw wteryrwu",
+    img: series1,
+    name: "ISA TRUCHET",
+    title: "Senior Advisor & Strategy Planning Consultant",
+    role: "SDAIA",
   },
   {
-    img: speakerdemo,
-    title: "demo",
-    name: "gewfg sdggh4ww",
-    role: "wtyw wteryrwu",
+    img: series2,
+    name: "FACUNDO RUA",
+    title: "Chief Technology Officer",
+    role: "Zid",
   },
   {
-    img: speakerdemo,
-    title: "demo",
-    name: "gewfg sdggh4ww",
-    role: "wtyw wteryrwu",
+    img: series3,
+    name: "FILIP NEKVINDA",
+    title: "Chief Information & Digital Officer",
+    role: "Abdul Latif Jameel",
   },
   {
-    img: speakerdemo,
-    title: "demo",
-    name: "gewfg sdggh4ww",
-    role: "wtyw wteryrwu",
+    img: series4,
+    name: "JAVED A. AKBAR",
+    title: "Chief Governance, Risk (GRC) & Data Officer",
+    role: "TASNEE",
   },
   {
-    img: speakerdemo,
-    title: "demo",
-    name: "gewfg sdggh4ww",
-    role: "wtyw wteryrwu",
+    img: series5,
+    name: "UMRAN RAFI",
+    title: "Director, Data & AI",
+    role: "NEOM",
   },
   {
-    img: speakerdemo,
-    title: "demo",
-    name: "gewfg sdggh4ww",
-    role: "wtyw wteryrwu",
+    img: series6,
+    name: "TUNC OZCAN",
+    title: "Director - Data Analytics, Loyalty, Market Research",
+    role: "Nahdi Medical Co.",
   },
   {
-    img: speakerdemo,
-    title: "demo",
-    name: "gewfg sdggh4ww",
-    role: "wtyw wteryrwu",
+    img: series7,
+    name: "NIKITA GORDEEV",
+    title: "Chief Technology Officer",
+    role: "Snoonu",
   },
   {
-    img: speakerdemo,
-    title: "demo",
-    name: "gewfg sdggh4ww",
-    role: "wtyw wteryrwu",
+    img: series8,
+    name: "ARIF SAEED",
+    title: "Experience Director",
+    role: "Memac Ogilvy",
   },
   {
-    img: speakerdemo,
-    title: "demo",
-    name: "gewfg sdggh4ww",
-    role: "wtyw wteryrwu",
+    img: series9,
+    name: "DR. TONY FARES",
+    title: "Technology Director",
+    role: "Hamad Bin Khalifa University, Qatar Foundation",
   },
   {
-    img: speakerdemo,
-    title: "demo",
-    name: "gewfg sdggh4ww",
-    role: "wtyw wteryrwu",
+    img: series10,
+    name: "AHMED SERAG",
+    title: "Founder & Director AI Innovation Lab",
+    role: "Weill Cornell Medicine",
   },
   {
-    img: speakerdemo,
-    title: "demo",
-    name: "gewfg sdggh4ww",
-    role: "wtyw wteryrwu",
+    img: series11,
+    name: "AHMED KHALIL ABDULLA",
+    title: "Director of IT Department",
+    role: "Ministry of Social Development & Family",
   },
   {
-    img: speakerdemo,
-    title: "demo",
-    name: "gewfg sdggh4ww",
-    role: "wtyw wteryrwu",
+    img: series12,
+    name: "DR. JASSIM ALMULLA",
+    title: "Information Technology Director",
+    role: "Qatar Football Association",
+  },
+  {
+    img: series13,
+    name: "KRISHNAN GOPI",
+    title: "Group Chief Disruption Officer & CEO - EdTech",
+    role: "GEMS Education",
+  },
+  {
+    img: series14,
+    name: "JAYAKUMAR MOHANACHANDRAN",
+    title: "Group Chief Information Officer",
+    role: "Buzeki Enterprises Ltd.",
+  },
+  {
+    img: series15,
+    name: "SREEDHAR SURAGOUNI",
+    title: "Chief Operations & Technology Officer",
+    role: "Sukoon Insurance",
+  },
+  {
+    img: series16,
+    name: "TAMER HAMED",
+    title: "Chief Information Officer",
+    role: "Dubai Cable Company - Ducab",
+  },
+  {
+    img: series17,
+    name: "ALI KATKHADA",
+    title: "Group Chief Information Officer",
+    role: "Depa Group",
+  },
+  {
+    img: series18,
+    name: "SHOBHIT TANDON",
+    title: "Group Chief Digital & Technology Officer",
+    role: "Alamar",
   },
 
 ];
